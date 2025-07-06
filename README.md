@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Micro-Quiz Platform
 
 A modern, responsive quiz application built with Next.js 13+ (App Router) that demonstrates advanced Next.js features including Static Site Generation (SSG), Server-Side Rendering (SSR), Dynamic Routing, and API Routes.
@@ -231,14 +230,6 @@ yarn test
 ### Challenge 4: Mobile Responsiveness
 **Problem**: Creating a good mobile experience for quiz taking
 **Solution**: Implemented responsive design with touch-friendly interfaces and proper mobile navigation
-
-## AI Development Tools
-
-This project was developed with the assistance of AI coding tools:
-- **Code Generation**: Used AI for boilerplate code and component structures
-- **Problem Solving**: AI assistance for debugging and optimization
-- **Documentation**: AI-generated documentation and code comments
-- **Testing**: AI-assisted test case generation and validation
 
 ## Future Enhancements
 
