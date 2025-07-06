@@ -3,7 +3,7 @@
 
 A modern, responsive quiz application built with Next.js 13+ (App Router) that demonstrates advanced Next.js features including Static Site Generation (SSG), Server-Side Rendering (SSR), Dynamic Routing, and API Routes.
 
-## 🚀 Features
+## Features
 
 ### Core Functionality
 - **Interactive Quiz Taking**: Questions presented one at a time with immediate feedback
@@ -20,7 +20,7 @@ A modern, responsive quiz application built with Next.js 13+ (App Router) that d
 - **SEO Optimization**: Dynamic meta tags and Open Graph support
 - **Image Optimization**: Uses `next/image` for optimized image loading
 
-## 🏗️ Architecture
+## Architecture
 
 ### File Structure
 ```
@@ -43,7 +43,7 @@ app/
 3. **Quiz Pages**: Fetches quiz details client-side with real-time state management
 4. **API Routes**: Serve mock data for all quiz content
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Next.js 13+**: App Router, SSG, SSR, API Routes
 - **React 18**: Functional components, hooks, state management
@@ -52,7 +52,7 @@ app/
 - **Shadcn/UI**: Beautiful, accessible component library
 - **Lucide React**: Modern icon library
 
-## 🎯 Next.js Requirements Implementation
+## Next.js Requirements Implementation
 
 ### 1. Static Site Generation (SSG)
 **Location**: `app/page.tsx`
@@ -84,7 +84,7 @@ app/
 - Manages current question, user answers, score, and timing
 - Implements real-time feedback and progress tracking
 
-## 🎨 Design Features
+## Design Features
 
 ### User Experience
 - **Intuitive Navigation**: Clear breadcrumbs and navigation paths
@@ -98,7 +98,7 @@ app/
 - **Typography**: Readable fonts with proper hierarchy
 - **Accessibility**: Proper ARIA labels and keyboard navigation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -142,7 +142,7 @@ npm run build
 npm start
 ```
 
-## 📊 Quiz Data Structure
+## Quiz Data Structure
 
 The application uses mock JSON data structured as follows:
 
@@ -181,7 +181,7 @@ interface QuizQuestion {
 }
 ```
 
-## 🧪 Testing
+## Testing
 
 The application includes comprehensive quiz functionality with:
 - **Unit Testing**: Component logic and utility functions
@@ -195,7 +195,7 @@ npm test
 yarn test
 ```
 
-## 🔧 Development Decisions
+## Development Decisions
 
 ### Architecture Choices
 - **App Router**: Chose Next.js 13+ App Router for modern development patterns
@@ -214,7 +214,7 @@ yarn test
 - **Structured Data**: Proper page titles and descriptions
 - **Open Graph**: Social media sharing optimization
 
-## 🚧 Challenges & Solutions
+## Challenges & Solutions
 
 ### Challenge 1: Data Fetching Strategy
 **Problem**: Balancing SSG, SSR, and client-side rendering
@@ -232,7 +232,7 @@ yarn test
 **Problem**: Creating a good mobile experience for quiz taking
 **Solution**: Implemented responsive design with touch-friendly interfaces and proper mobile navigation
 
-## 🤖 AI Development Tools
+## AI Development Tools
 
 This project was developed with the assistance of AI coding tools:
 - **Code Generation**: Used AI for boilerplate code and component structures
@@ -240,7 +240,7 @@ This project was developed with the assistance of AI coding tools:
 - **Documentation**: AI-generated documentation and code comments
 - **Testing**: AI-assisted test case generation and validation
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - **User Authentication**: User accounts and progress tracking
 - **Quiz Analytics**: Detailed performance analytics
@@ -249,11 +249,11 @@ This project was developed with the assistance of AI coding tools:
 - **Offline Mode**: Progressive Web App features
 - **Real Database**: Integration with PostgreSQL or MongoDB
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -261,9 +261,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-For questions or support, please open an issue in the GitHub repository.
-=======
-# Micro-Quiz
->>>>>>> 699a7dd4a67a9a06cf2dd7c016a8308300f90e0d
