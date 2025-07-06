@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Micro-Quiz Platform
 
 A modern, responsive quiz application built with Next.js 13+ (App Router) that demonstrates advanced Next.js features including Static Site Generation (SSG), Server-Side Rendering (SSR), Dynamic Routing, and API Routes.
@@ -263,3 +264,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For questions or support, please open an issue in the GitHub repository.
+=======
+# Micro-Quiz
+>>>>>>> 699a7dd4a67a9a06cf2dd7c016a8308300f90e0d
